@@ -7,7 +7,7 @@
     <groupId>cn.com.kuaileshijie</groupId>
     <artifactId>GitS</artifactId>
     <packaging>pom</packaging>
-    <version>1.1.1</version>
+    <version>1.1.2-SNAPSHOT</version>
     <modules>
         <module>Demo1</module>
         <module>Demo2</module>
